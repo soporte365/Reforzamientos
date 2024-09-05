@@ -28,11 +28,17 @@ class informacion:
         diccio = {"Nombre": self.nombre,
                   "Apellido": self.apellido,
                   "Edad": self.edad}
-        return diccio
+        print(diccio)
 
 
 persona = informacion()
 persona.ingreNom()
 persona.ingreEda()
 
-print(persona.impri())
+persona1 = informacion()
+persona1.ingreNom()
+persona1.ingreEda()
+
+persona.impri()
+persona1.impri()
+

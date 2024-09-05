@@ -5,6 +5,7 @@ Input: "Hola Pythonista, seguimos adelante"
 Output: "adelante seguimos Pythonista Hola"
 """
 
+
 class cadenas:
 
     def __init__(self, palabras):
