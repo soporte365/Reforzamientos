@@ -19,5 +19,5 @@ class agenda():
         self.DNI = DNI
 
     def añadir(self):
-        for 
+        for
         lista = [diccio{ }]
